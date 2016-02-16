@@ -11,26 +11,29 @@ header{
     margin:0 auto;
     width:100%;
     height:50%;
-    background-color:#558B2F;
+    background-image:url(http://i.imgur.com/kvP736X.png)
+        
 }
 
 nav{
     margin: 0 auto;
-    padding: 0 auto;
-    width:100%
+    width:100%    
 }
 ul{
     list-style-type:none;
     margin:0 auto;
-    padding:0 auto;
 }
-li a{
-    display:inline;
-    float:left;
-    
-}
-a{
+
+li{
     display:inline-block;
-    padding:8px;
+    text-align:center;
+    margin:0 auto;
+    
+
+   }
+
+a{
+    display:inline-grid;
+    padding:10px
     
 }
