@@ -48,14 +48,21 @@ a{
 
 }
 #two{
-    padding:50px;
-    margin:20px;
+    padding:90px;
+    margin:10px;
     float:left;
-    background-color: aqua;
+}
+#si{
+    float:left;
 }
 #three{
     padding:50px;
     margin:20px;
     float:left;
     background-color: aqua;
+}
+footer{
+    padding:10px;
+    margin:30px;
+    float:left;
 }
